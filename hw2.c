@@ -1,6 +1,5 @@
 /*
-Name: Baozan Yan 
-Date: 06/06/2022 
+
 Description: Dynamic Allocation of multi-dimension arrays
 Usage: Enter the values as prompted and generate wave.txt file to form the road map
 */
